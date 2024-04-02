@@ -1,9 +1,5 @@
 body{
     font-family:Arial, Helvetica, sans-serif;
-    margin: 0 106px;
-    background-color: rgba(55, 0, 255, 0.192);
-    border: 20px double rgb(0, 0, 0);
-    padding: 10px;
 }
 
 .header {
@@ -49,4 +45,11 @@ img {
 h2 {
     border-left: 5px solid blue;
     padding-left: 0.8em;
+}
+
+.page-body {
+    margin: 0 106px;
+    background-color: rgba(55, 0, 255, 0.192);
+    border: 20px double rgb(0, 0, 0);
+    padding: 10px;
 }
